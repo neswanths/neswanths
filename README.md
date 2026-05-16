@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey
 
-<!--
-**neswanths/neswanths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Neswanth — AIML undergrad, probably up too late lazy learnings and debugging something that
+shouldn't exist yet.
 
-Here are some ideas to get you started:
+I build things that are slightly too ambitious for the time I have.
+That's the point.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm into now:**
+- Multi-agent systems that actually reason before they act
+- The overlap between AI engineering and how intelligence actually works
+- Distributed systems that don't need a landlord
+
+Most of these started as paper work ideas. Some of them grew up.
+
+**Where I'm headed:** PhD in AI/ML research. Not there yet. Working on it.
+
+**Stack I reach for:** Python · TypeScript · FastAPI · React · LangChain · CrewAI · Gemini · Groq · Holochain
+
+**Find me:** [LinkedIn](https://linkedin.com/in/neswanth) · neswanths@gmail.com
